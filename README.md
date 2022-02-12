@@ -10,6 +10,9 @@ Classification of sentences depending on polarity- Positive or Negative achieved
 
 **RESULTS**
 
+
+Trained for 5 epochs on Kaggle.
+
 Test Accuracy of ~90%
 
 ### Dataset
