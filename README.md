@@ -26,7 +26,7 @@ Test Accuracy of ~90%
 [Improved-RNN](./improved-rnn-sentimental-analysis.ipynb) : Used LSTM along with glove-6b embeddings, with a 2 layered bi-directional RNN.
 
 
-## This project in PyTorch
+## This project is in PyTorch
 ### Requirements:
 - PyTorch
 - Torchtext (Used ```torchtext.legacy```)
