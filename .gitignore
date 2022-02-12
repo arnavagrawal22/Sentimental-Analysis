@@ -1,3 +1,4 @@
 .data/
 .ipynb_checkpoints/
 simple-rnn-15-epoch.pt
+improved-rnn-5-epoch.pt
